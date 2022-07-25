@@ -1,1 +1,1 @@
-# furry-lamp
+# Smart Intern
